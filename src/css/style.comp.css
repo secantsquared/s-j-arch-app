@@ -128,9 +128,11 @@ body {
 .header {
   background-color: #54483A;
   grid-column: full-start / col-end 6;
-  background-image: linear-gradient(rgba(16, 29, 44, 0.93), rgba(16, 29, 44, 0.93)), url(../img/hero.jpeg);
+  background-image: linear-gradient(rgba(16, 29, 44, 0.93), rgba(16, 29, 44, 0.93)), url(../img/abstract-architecture-building-exterior-593158.jpg);
   background-size: cover;
   background-position: center;
+  width: 100vw;
+  height: 65vh;
   padding: 8rem;
   padding-top: 4rem;
   display: grid;
